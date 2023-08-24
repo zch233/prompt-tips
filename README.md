@@ -1242,7 +1242,7 @@ Can we have a conversation about [话题] ？
 输入目标，依照SMART框架制定规划
 
 ```markdown
-使​用SMART框架帮助我制定计划以实现我的目标。 
+使用SMART框架帮助我制定计划以实现我的目标。 
 ---
 我的目标是[请输入]
 ```
